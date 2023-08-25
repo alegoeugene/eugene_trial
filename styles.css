@@ -1,0 +1,19 @@
+#box1 {
+    background-color: red;
+    width: 500px;
+    height: 100px;
+    color: white;
+}
+
+#box2 {
+    background-color: green;
+    width: 600px;
+    height: 80px;
+    color: black;
+}
+#box3 {
+    background-color: beige;
+    width: 500px;
+    height: 60px;
+    color: orange;
+}
